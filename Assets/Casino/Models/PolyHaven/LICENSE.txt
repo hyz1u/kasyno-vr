@@ -1,0 +1,3 @@
+Models in this folder come from Poly Haven (https://polyhaven.com) and are licensed CC0 1.0
+(public domain). They may be used for any purpose, including commercial, without attribution.
+Each folder name is the asset id: https://polyhaven.com/a/<folder name>
